@@ -6,3 +6,4 @@
 - Using https://covid19api.com/
 - Vue JS
 - Vue Router
+- TailwindCSS
