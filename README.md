@@ -1,19 +1,8 @@
-# vue-covid-tracker
+# Vue Covid Tracker
 
-## Project setup
-```
-npm install
-```
+## project from brad traversy tutorial
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- With TypeScript
+- Using https://covid19api.com/
+- Vue JS
+- Vue Router
